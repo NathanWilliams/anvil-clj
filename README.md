@@ -7,7 +7,8 @@ A library to decode Minecraft "[anvil]" files
 At the moment it is readonly, but the long term plan is to add write support
 ## Usage
 
-There will be a blog post explaining this eventually
+Covered in the following blog post:
+http://nathanwilliams.github.io/2013/04/16/minecraft-region-files/
 
 ## License
 
